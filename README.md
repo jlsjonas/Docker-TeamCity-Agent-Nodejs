@@ -1,7 +1,7 @@
 # Docker-TeamCity-Agent-Nodejs
-[![Docker Pulls](https://img.shields.io/docker/pulls/jacobpeddk/teamcity-agent-nodejs.svg)](https://hub.docker.com/r/fluid/teamcity-agent-nodejs)
-[![Docker Stars](https://img.shields.io/docker/stars/jacobpeddk/teamcity-agent-nodejs.svg)](https://hub.docker.com/r/fluid/teamcity-agent-nodejs)
-[![](https://images.microbadger.com/badges/image/jacobpeddk/teamcity-agent-nodejs.svg)](https://microbadger.com/images/fluid/teamcity-agent-nodejs "Container Image size and layers")
+[![Docker Pulls](https://img.shields.io/docker/pulls/fluid/teamcity-agent-nodejs.svg)](https://hub.docker.com/r/fluid/teamcity-agent-nodejs)
+[![Docker Stars](https://img.shields.io/docker/stars/fluid/teamcity-agent-nodejs.svg)](https://hub.docker.com/r/fluid/teamcity-agent-nodejs)
+[![](https://images.microbadger.com/badges/image/fluid/teamcity-agent-nodejs.svg)](https://microbadger.com/images/fluid/teamcity-agent-nodejs "Container Image size and layers")
 [![](https://images.microbadger.com/badges/commit/fluid/teamcity-agent-nodejs.svg)](https://microbadger.com/images/fluid/teamcity-agent-nodejs "Current commit that the container is build from")
 [![](https://images.microbadger.com/badges/version/fluid/teamcity-agent-nodejs.svg)](https://microbadger.com/images/fluid/teamcity-agent-nodejs "Container version")
 
