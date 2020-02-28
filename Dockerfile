@@ -18,6 +18,7 @@ RUN apt-get update && \
 	curl -sL https://deb.nodesource.com/setup_10.x | bash - && \
 	apt-get install -y nodejs && \
 	apt-get install -y man && \
+	apt-get install -y wget && \
 	apt-get install -y unzip && \
 	apt-get clean all
 
