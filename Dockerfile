@@ -22,10 +22,10 @@ RUN apt-get update && \
 	apt-get install -y unzip && \
 	apt-get clean all
 
-RUN wget --quiet https://releases.hashicorp.com/terraform/0.12.21/terraform_0.12.21_linux_amd64.zip \
-  && unzip terraform_0.12.21_linux_amd64.zip \
+RUN wget --quiet https://releases.hashicorp.com/terraform/0.12.24/terraform_0.12.24_linux_amd64.zip \
+  && unzip terraform_0.12.24_linux_amd64.zip \
   && mv terraform /usr/bin \
-  && rm terraform_0.12.21_linux_amd64.zip
+  && rm terraform_0.12.24_linux_amd64.zip
 	
 
 COPY docker_opts.sh /services/docker_opts.sh
